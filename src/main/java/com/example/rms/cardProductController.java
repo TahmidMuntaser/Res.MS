@@ -217,4 +217,3 @@ public class cardProductController implements Initializable {
         setQuantity();
     }
 }
-//database work 29 min 18 se
