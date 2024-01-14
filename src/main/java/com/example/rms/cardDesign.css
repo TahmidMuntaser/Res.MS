@@ -6,10 +6,10 @@
     -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 5,0,0,0);
 }
 .btn{
-    -fx-background-color: linear-gradient(to bottom right, #098c53, #246861);
+    -fx-background-color: linear-gradient(to bottom right, #4E65FF, #00CDAC);
     -fx-cursor: hand;
     -fx-text-fill: #fff;
 }
 .btn:hover{
-    -fx-background-color: linear-gradient(to bottom right, #0fb565, #399a8f);
+     -fx-background-color: linear-gradient(to bottom right, #00CDAC, #4E65FF);
 }
